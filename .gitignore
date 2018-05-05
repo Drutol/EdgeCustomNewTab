@@ -1,0 +1,5 @@
+*.pfx
+*.cer
+*.pvk
+
+*.appx

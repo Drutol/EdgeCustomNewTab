@@ -1,0 +1,14 @@
+{
+    "name": "MyEdgeStartPage",
+    "description": "MyEdgeStartPage",
+    "version": "1.0",
+    "author": "Drutol",
+    "background": {
+        "page": "background.html",
+        "persistent": true
+    },
+    "default_locale": "en",
+    "permissions": [
+        "tabs"
+    ]
+}
